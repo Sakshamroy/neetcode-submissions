@@ -76,11 +76,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0242-valid-anagram](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0242-valid-anagram](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
