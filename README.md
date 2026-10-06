@@ -90,11 +90,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -116,4 +118,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
