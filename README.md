@@ -106,10 +106,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
