@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0242-valid-anagram](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -106,4 +108,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
