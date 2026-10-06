@@ -99,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
