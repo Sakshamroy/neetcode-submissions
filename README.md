@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
+| [0022-generate-parentheses](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
