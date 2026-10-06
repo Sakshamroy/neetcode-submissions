@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0242-valid-anagram](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
