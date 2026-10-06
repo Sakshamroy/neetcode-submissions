@@ -101,6 +101,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0031-next-permutation/) | Medium |
+| [0053-maximum-subarray](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0005-longest-palindromic-substring](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
