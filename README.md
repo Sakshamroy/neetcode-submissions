@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
+| [0036-valid-sudoku](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0242-valid-anagram](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0031-next-permutation/) | Medium |
+| [0036-valid-sudoku](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -174,4 +176,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
