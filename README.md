@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0036-valid-sudoku](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0169-majority-element](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0169-majority-element/) | Easy |
@@ -99,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Sakshamroy/neetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
